@@ -1,6 +1,4 @@
 
 # Something here 
 
-This is a readme page 
-
-hi, hope you can read this 
+[July 07](https://dshuangg.github.io/responses/0707)
