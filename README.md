@@ -7,4 +7,4 @@
 
 # Other Links
 
-[July 10: Lunch & Learn session](https://dshuangg.github.io/responses/0710)
+[July 10: Lunch & Learn session](https://dshuangg.github.io/responses/0710z)
