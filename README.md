@@ -1,5 +1,5 @@
 
-# My Machine Learning Responses 
+# Links to Responses 
 
 [July 07](https://dshuangg.github.io/responses/0707)
 
