@@ -7,6 +7,7 @@ Let me know if you can't figure out the file-naming pattern/convention.
 [Jul 08](https://dshuangg.github.io/responses/0708)  
 [Jul 09](https://dshuangg.github.io/responses/0709)
 
+<!---
 [Jul 14](https://dshuangg.github.io/responses/0714)  
 [Jul 15](https://dshuangg.github.io/responses/0715)  
 [Jul 16](https://dshuangg.github.io/responses/0716)
@@ -22,6 +23,7 @@ Let me know if you can't figure out the file-naming pattern/convention.
 [Aug 04](https://dshuangg.github.io/responses/0804)  
 [Aug 05](https://dshuangg.github.io/responses/0805)  
 [Aug 06](https://dshuangg.github.io/responses/0806)
+-->
 
 # Other Links
 
