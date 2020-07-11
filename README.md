@@ -3,7 +3,7 @@
 
 Let me know if you can't figure out the file-naming pattern/convention.
 
-[Jul 07](https://dshuangg.github.io/responses/0707)\
+[Jul 07](https://dshuangg.github.io/responses/0707)\n
 [Jul 08](https://dshuangg.github.io/responses/0708)\
 [Jul 09](https://dshuangg.github.io/responses/0709)
 
