@@ -1,7 +1,7 @@
 
 # Links to Responses 
 
-## Let me know if you can't figure out the file naming pattern.
+Let me know if you can't figure out the file naming pattern.
 
 [July 07](https://dshuangg.github.io/responses/0707)
 
