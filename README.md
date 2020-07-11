@@ -29,5 +29,6 @@ Let me know if you can't figure out the file-naming pattern/convention.
 
 [Jul 10: Lunch & Learn session](https://dshuangg.github.io/responses/0710z)
 
+<!---
 [Jul 24: Lunch & Learn session](https://dshuangg.github.io/responses/0724z)
-
+-->
