@@ -28,7 +28,7 @@ Let me know if you can't figure out the file-naming pattern/convention.
 # Other Links
 
 [Jul 10: Lunch & Learn session](https://dshuangg.github.io/responses/0710z)  
-[Jul 11: Project 1](https://dshuangg.github.io/responses/0711c)
+[Jul 11: Project 1](https://dshuangg.github.io/responses/0711p)
 
 <!---
 [Jul 24: Lunch & Learn session](https://dshuangg.github.io/responses/0724z)
