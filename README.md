@@ -7,11 +7,11 @@ Let me know if you can't figure out the file-naming pattern/convention.
 [Jul 08](https://dshuangg.github.io/responses/0708)  
 [Jul 09](https://dshuangg.github.io/responses/0709)
 
-<!---
 [Jul 14](https://dshuangg.github.io/responses/0714)  
 [Jul 15](https://dshuangg.github.io/responses/0715)  
 [Jul 16](https://dshuangg.github.io/responses/0716)
 
+<!---
 [Jul 21](https://dshuangg.github.io/responses/0721)  
 [Jul 22](https://dshuangg.github.io/responses/0722)  
 [Jul 23](https://dshuangg.github.io/responses/0723)
