@@ -9,7 +9,6 @@ Let me know if you can't figure out the file-naming pattern/convention.
 
 [Jul 14](https://dshuangg.github.io/responses/0714)  
 [Jul 15](https://dshuangg.github.io/responses/0715)  
-[Jul 16](https://dshuangg.github.io/responses/0716)
 
 <!---
 [Jul 21](https://dshuangg.github.io/responses/0721)  
