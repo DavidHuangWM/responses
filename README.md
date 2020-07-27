@@ -31,6 +31,7 @@ Let me know if you can't figure out the file-naming pattern/convention.
 
 [Jul 18: Project 2](https://dshuangg.github.io/responses/0718p)
 
+[Jul 24: Lunch & Learn session](https://dshuangg.github.io/responses/0724z)  
 [Jul 25: Project 3](https://dshuangg.github.io/responses/0725p)
 
 
