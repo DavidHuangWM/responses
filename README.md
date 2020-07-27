@@ -12,13 +12,13 @@ Let me know if you can't figure out the file-naming pattern/convention.
 ## Week 2
 
 [Jul 14](https://dshuangg.github.io/responses/0714)  
-[Jul 15](https://dshuangg.github.io/responses/0715)  
+[Jul 15](https://dshuangg.github.io/responses/0715)
 
 ## Week 3
 
-[Jul 20](https://dshuangg.github.io/responses/0720)
+[Jul 20](https://dshuangg.github.io/responses/0720)  
 [Jul 21](https://dshuangg.github.io/responses/0721)  
-[Jul 22](https://dshuangg.github.io/responses/0722)  
+[Jul 22](https://dshuangg.github.io/responses/0722)
 
 <!---
 ## Week 4
