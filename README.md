@@ -14,11 +14,10 @@ Let me know if you can't figure out the file-naming pattern/convention.
 [Jul 21](https://dshuangg.github.io/responses/0721)  
 [Jul 22](https://dshuangg.github.io/responses/0722)
 
-<!---
 [Jul 28](https://dshuangg.github.io/responses/0728)  
-[Jul 29](https://dshuangg.github.io/responses/0729)  
-[Jul 30](https://dshuangg.github.io/responses/0730)
+[Jul 29](https://dshuangg.github.io/responses/0729)
 
+<!---
 [Aug 04](https://dshuangg.github.io/responses/0804)  
 [Aug 05](https://dshuangg.github.io/responses/0805)  
 [Aug 06](https://dshuangg.github.io/responses/0806)
