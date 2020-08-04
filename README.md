@@ -17,12 +17,6 @@ Let me know if you can't figure out the file-naming pattern/convention.
 [Jul 28](https://dshuangg.github.io/responses/0728)  
 [Jul 29](https://dshuangg.github.io/responses/0729)
 
-<!---
-[Aug 04](https://dshuangg.github.io/responses/0804)  
-[Aug 05](https://dshuangg.github.io/responses/0805)  
-[Aug 06](https://dshuangg.github.io/responses/0806)
--->
-
 # Other Links
 
 [Jul 10: Lunch & Learn session](https://dshuangg.github.io/responses/0710z)  
@@ -33,4 +27,7 @@ Let me know if you can't figure out the file-naming pattern/convention.
 [Jul 24: Lunch & Learn session](https://dshuangg.github.io/responses/0724z)  
 [Jul 25: Project 3](https://dshuangg.github.io/responses/0725p)
 
+[Aug 03: Project 4](https://dshuangg.github.io/responses/0803p)
+
+[Aug 06: Final Project](https://dshuangg.github.io/responses/0806p)
 
